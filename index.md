@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
-Hello This is Himanshu Pal
+title: Welcome to Himanshu Blog
+
 ---
 
